@@ -3,7 +3,7 @@
 # Get-to-know-me
 This is a introduction for assignment 2
 
-# Hello everyone! My name is Alicia Johansen 😊
+# Hello everyone! My name is Alicia Johansen 
 
 I am a a juninor at **University of Arkansas at Little Rock** going for my degree for **computer science**, excited to learn about software development, digital logic, and the intersection of hardware/software.
 
